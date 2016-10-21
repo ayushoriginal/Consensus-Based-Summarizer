@@ -41,6 +41,7 @@ This is an implementation of "Automatic Consensus-Based Text Summarizer" along w
 
 - CHECK 7:Finally the summary is displayed in summary.txt
 
+![a](http://i.giphy.com/dsKnRuALlWsZG.gif)
 
 
 #Paper accepted in The Thirteenth International Conference on Natural Language Processing 
