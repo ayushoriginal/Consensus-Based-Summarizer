@@ -37,7 +37,7 @@ This is an implementation of "Automatic Consensus-Based Text Summarizer" along w
 
 - CHECK 5: "matrix.txt" shows a  WORD v/s SENTENCE MATRIX
 
- -CHECK 6: "coefficient_matrix.txt"  displays an  N*N matrix where each element i.e. c(i,j)  is the Pearson Correlation Coefficient of Sentence i and Sentence j. You can see that whenever (i == j) i.e. for diagonal elements ==> c(i,j) == 1
+- CHECK 6: "coefficient_matrix.txt"  displays an  N*N matrix where each element i.e. c(i,j)  is the Pearson Correlation Coefficient of Sentence i and Sentence j. You can see that whenever (i == j) i.e. for diagonal elements ==> c(i,j) == 1
 
 - CHECK 7:Finally the summary is displayed in summary.txt
 
