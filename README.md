@@ -28,10 +28,10 @@ This is an implementation of "Automatic Consensus-Based Text Summarizer" along w
 - CHECK 2: It has been made sure that pseudo full-stops (Eg; between acronyms like M.B.B.S. and after salutations like Mr. Mrs. Dr. Ms.) don't break the sentences. Put contents of 'raw2.txt' in 'raw.txt' to check the same
 
 - CHECK 3: Various text files will be formed. Their description is provided::
-    1)post_formatting.txt:: GIVES each document after removing symbols and numbers and converting  ' '(space)  to '\n'(next line) character. This is done by the Format() function in the code.
-    2)post_stemming.txt:: Gives each document after passing it through the Portal stemmer.(SEE:: PreStem() and stemfile() function)
-    3)post_sorting.txt:: After lexicographical  Sorting , only unique words are printed in the documents.  
-    4)post_stopword_filtering.txt:: Sorted words without the stop words
+    - post_formatting.txt:: GIVES each document after removing symbols and numbers and converting  ' '(space)  to '\n'(next line) character. This is done by the Format() function in the code.
+    - post_stemming.txt:: Gives each document after passing it through the Portal stemmer.(SEE:: PreStem() and stemfile() function)
+    - post_sorting.txt:: After lexicographical  Sorting , only unique words are printed in the documents.  
+    - post_stopword_filtering.txt:: Sorted words without the stop words
 
 - CHECK 4: post_stemming   &  post_formatting are two folders  which are not supposed to be deleted. They display each sentence file after doing the operation suggested by their names
 
