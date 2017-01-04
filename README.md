@@ -1,5 +1,7 @@
 # Automatic-Text-Summarizer
 ## Author- Ayush Pareek
+### Access the publication here: http://ltrc.iiit.ac.in/icon2016/proceedings/pdf/W16-5118.pdf
+
 [Click here to see a powerpoint presentation of a primitive version of this project ](http://www.slideshare.net/ayushoriginal/abridged-project-pptayush)
 
 [![Join the chat at https://gitter.im/Consensus-Based-Summarizer/Lobby](https://badges.gitter.im/Consensus-Based-Summarizer/Lobby.svg)](https://gitter.im/Consensus-Based-Summarizer/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
