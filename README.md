@@ -1,6 +1,6 @@
 # Automatic-Text-Summarizer
 ## Author- Ayush Pareek
-### Access the publication here: http://ltrc.iiit.ac.in/icon2016/proceedings/pdf/W16-5118.pdf
+### Access the publication here: http://ltrc.iiit.ac.in/icon2016/proceedings/icon2016/pdf/W16-5118.pdf
 
 [Click here to see a powerpoint presentation of a primitive version of this project ](http://www.slideshare.net/ayushoriginal/abridged-project-pptayush)
 
